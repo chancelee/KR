@@ -1,0 +1,287 @@
+Info of 0 heap---------
+heap base  : 00430ED0
+pre heap   : 00000000
+next heap  : 00430E80
+malloc size: 00000100
+malloc count: 00000001
+
+Info of 1 heap---------
+heap base  : 00430E80
+pre heap   : 00430ED0
+next heap  : 00430DC0
+malloc size: 00000015
+malloc count: 00000003
+
+Info of 2 heap---------
+heap base  : 00430DC0
+pre heap   : 00430E80
+next heap  : 00430D60
+malloc size: 00000090
+malloc count: 00000004
+
+Info of 3 heap---------
+heap base  : 00430D60
+pre heap   : 00430DC0
+next heap  : 00430CF0
+malloc size: 00000034
+malloc count: 00000005
+
+Info of 4 heap---------
+heap base  : 00430CF0
+pre heap   : 00430D60
+next heap  : 00430CB0
+malloc size: 00000041
+malloc count: 00000006
+
+Info of 5 heap---------
+heap base  : 00430CB0
+pre heap   : 00430CF0
+next heap  : 00430C50
+malloc size: 00000013
+malloc count: 00000007
+
+Info of 6 heap---------
+heap base  : 00430C50
+pre heap   : 00430CB0
+next heap  : 00430C00
+malloc size: 00000031
+malloc count: 00000008
+
+Info of 7 heap---------
+heap base  : 00430C00
+pre heap   : 00430C50
+next heap  : 00430BB0
+malloc size: 0000001D
+malloc count: 00000009
+
+Info of 8 heap---------
+heap base  : 00430BB0
+pre heap   : 00430C00
+next heap  : 00430B70
+malloc size: 00000024
+malloc count: 0000000A
+
+Info of 9 heap---------
+heap base  : 00430B70
+pre heap   : 00430BB0
+next heap  : 00430B30
+malloc size: 00000014
+malloc count: 0000000B
+
+Info of 10 heap---------
+heap base  : 00430B30
+pre heap   : 00430B70
+next heap  : 00430AD0
+malloc size: 0000000D
+malloc count: 0000000C
+
+Info of 11 heap---------
+heap base  : 00430AD0
+pre heap   : 00430B30
+next heap  : 00430A40
+malloc size: 0000002F
+malloc count: 0000000D
+
+Info of 12 heap---------
+heap base  : 00430A40
+pre heap   : 00430AD0
+next heap  : 004309E0
+malloc size: 00000058
+malloc count: 0000000E
+
+Info of 13 heap---------
+heap base  : 004309E0
+pre heap   : 00430A40
+next heap  : 00430990
+malloc size: 00000030
+malloc count: 0000000F
+
+Info of 14 heap---------
+heap base  : 00430990
+pre heap   : 004309E0
+next heap  : 00430940
+malloc size: 0000001E
+malloc count: 00000010
+
+Info of 15 heap---------
+heap base  : 00430940
+pre heap   : 00430990
+next heap  : 004308F0
+malloc size: 00000020
+malloc count: 00000011
+
+Info of 16 heap---------
+heap base  : 004308F0
+pre heap   : 00430940
+next heap  : 004308B0
+malloc size: 00000017
+malloc count: 00000012
+
+Info of 17 heap---------
+heap base  : 004308B0
+pre heap   : 004308F0
+next heap  : 004307B0
+malloc size: 0000000E
+malloc count: 00000013
+
+Info of 18 heap---------
+heap base  : 004307B0
+pre heap   : 004308B0
+next heap  : 00430740
+malloc size: 000000CF
+malloc count: 00000014
+
+Info of 19 heap---------
+heap base  : 00430740
+pre heap   : 004307B0
+next heap  : 004306F0
+malloc size: 00000039
+malloc count: 00000015
+
+Info of 20 heap---------
+heap base  : 004306F0
+pre heap   : 00430740
+next heap  : 00430680
+malloc size: 0000001B
+malloc count: 00000016
+
+Info of 21 heap---------
+heap base  : 00430680
+pre heap   : 004306F0
+next heap  : 00430640
+malloc size: 00000044
+malloc count: 00000017
+
+Info of 22 heap---------
+heap base  : 00430640
+pre heap   : 00430680
+next heap  : 004305F0
+malloc size: 00000012
+malloc count: 00000018
+
+Info of 23 heap---------
+heap base  : 004305F0
+pre heap   : 00430640
+next heap  : 004305A0
+malloc size: 00000018
+malloc count: 00000019
+
+Info of 24 heap---------
+heap base  : 004305A0
+pre heap   : 004305F0
+next heap  : 00430560
+malloc size: 0000001E
+malloc count: 0000001A
+
+Info of 25 heap---------
+heap base  : 00430560
+pre heap   : 004305A0
+next heap  : 00430520
+malloc size: 0000000C
+malloc count: 0000001B
+
+Info of 26 heap---------
+heap base  : 00430520
+pre heap   : 00430560
+next heap  : 004304E0
+malloc size: 00000014
+malloc count: 0000001C
+
+Info of 27 heap---------
+heap base  : 004304E0
+pre heap   : 00430520
+next heap  : 00430490
+malloc size: 0000000F
+malloc count: 0000001D
+
+Info of 28 heap---------
+heap base  : 00430490
+pre heap   : 004304E0
+next heap  : 00430430
+malloc size: 00000016
+malloc count: 0000001E
+
+Info of 29 heap---------
+heap base  : 00430430
+pre heap   : 00430490
+next heap  : 004303D0
+malloc size: 00000028
+malloc count: 0000001F
+
+Info of 30 heap---------
+heap base  : 004303D0
+pre heap   : 00430430
+next heap  : 00430380
+malloc size: 00000027
+malloc count: 00000020
+
+Info of 31 heap---------
+heap base  : 00430380
+pre heap   : 004303D0
+next heap  : 00430330
+malloc size: 0000001B
+malloc count: 00000021
+
+Info of 32 heap---------
+heap base  : 00430330
+pre heap   : 00430380
+next heap  : 004302D0
+malloc size: 00000017
+malloc count: 00000022
+
+Info of 33 heap---------
+heap base  : 004302D0
+pre heap   : 00430330
+next heap  : 00430270
+malloc size: 00000034
+malloc count: 00000023
+
+Info of 34 heap---------
+heap base  : 00430270
+pre heap   : 004302D0
+next heap  : 00430210
+malloc size: 00000029
+malloc count: 00000024
+
+Info of 35 heap---------
+heap base  : 00430210
+pre heap   : 00430270
+next heap  : 004301D0
+malloc size: 00000030
+malloc count: 00000025
+
+Info of 36 heap---------
+heap base  : 004301D0
+pre heap   : 00430210
+next heap  : 00430170
+malloc size: 00000012
+malloc count: 00000026
+
+Info of 37 heap---------
+heap base  : 00430170
+pre heap   : 004301D0
+next heap  : 00384968
+malloc size: 00000032
+malloc count: 00000027
+
+Info of 38 heap---------
+heap base  : 00384968
+pre heap   : 00430170
+next heap  : 00430130
+malloc size: 00000800
+malloc count: 00000028
+
+Info of 39 heap---------
+heap base  : 00430130
+pre heap   : 00384968
+next heap  : 003851A0
+malloc size: 0000000F
+malloc count: 00000029
+
+Info of 40 heap---------s
+heap base  : 003851A0
+pre heap   : 00430130
+next heap  : 00000000
+malloc size: 00001000
+malloc count: 0000002A
+
